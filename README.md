@@ -1,1 +1,1 @@
-# Sentiment-Analysis-of-Amazon-products-review
+# Sentiment-Analysis-of-Amazon-products
